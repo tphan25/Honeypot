@@ -45,3 +45,5 @@ dionaea (1,144 attacks)
 ip-172-31-44-231 (1,144 attacks)
 
 ### 4)Any unresolved questions raised by the data collected
+
+What types of attacks were these? What were the attackers' goals in doing so? What could they do if they actually took over a real server?
